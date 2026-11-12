@@ -1,0 +1,19 @@
+{
+  "name": "Vitória em família · Roteiro de viagem",
+  "short_name": "Roteiro Vitória",
+  "description": "Roteiro familiar por Vitória e Vila Velha.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5efe3",
+  "theme_color": "#12372f",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
